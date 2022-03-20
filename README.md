@@ -1,0 +1,6 @@
+# PROJETO PARA PORTIFÓLIO DIO DESIGN PATTERNS, USADO COMO BASE O PROJETO DA AULA E ACRESCENTEI COMO CRIAR UM TOKEN JWT NO SPRING BOOT COM SPRING SECURITY, AUTH0, JPA COM POSTGRESQL
+
+**USANDO CADASTRO DE USUÁRIO BÁSICO COM CRIPTOGRAFIA DA SENHA GERANDO UM TOKEN BASEADO EM GUID W LOGIN DO USUÁRIO**
+
+Foi usado como base o tutorial: Como criar um token JWT com Spring Boot, Spring Security e JPA.<br>
+Projeto base: https://github.com/expertos-tech/inicial-spring-boot-autenticacao-jwt
